@@ -119,19 +119,19 @@ Connected Power BI directly to SQL Server and created an interactive dashboard f
 
 ## Main Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](images/leaf_bike_dashboard.png)
 
 ---
 
 ## Tooltip Page
 
-![Tooltip](Images/tooltip.png)
+![Tooltip](images/leaf_bike_dashboard2.png)
 
 ---
 
 ## Database Schema
 
-![ERD](Images/database_schema.png)
+![ERD](images/inbox_SQL-Server-Sample-ERD.png)
 
 ---
 
